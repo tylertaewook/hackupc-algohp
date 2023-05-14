@@ -1,7 +1,8 @@
 # AlgoHP: Inventory Forecasting and Visualization
 
-![](https://github.com/tylertaewook/hackupc-algohp/hackupc.gif)
 ![](hackupc.gif)
+
+[DevPost for HackUPC Hackathon 2023](https://devpost.com/software/algohp)
 
 AlgoHP is a powerful tool for inventory forecasting and visualization based on the ARIMA (AutoRegressive Integrated Moving Average) model. It enables users to forecast the inventory levels of 100 different products over a span of 13 weeks. The tool also provides a user-friendly dashboard that presents the forecasts in an intuitive and visually appealing manner.
 
